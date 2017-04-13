@@ -10,6 +10,6 @@ Run dynacpu3.2.sh
 
 *** Starts new wallet **
 Bootstraps **
-Starts mining. **
+Starts mining. ***
 
 Enjoy
