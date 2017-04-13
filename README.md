@@ -8,8 +8,8 @@ In a new vps
 
 Run dynacpu3.2.sh
 
-Starts new wallet **
-Bootsraps **
+*** Starts new wallet **
+Bootstraps **
 Starts mining. **
 
 Enjoy
