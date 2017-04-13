@@ -80,7 +80,7 @@ sleep 22;
 kill $! && trap " " EXIT
 echo
 echo "\nLong Live Dynamic CPU mining"
-cd dynamic-1.3.0/bin 
+cd ~/dynamic-1.3.0/bin 
 sudo ./dynamicd -daemon 
 
 while :;do echo -n .;sleep 1;done &
