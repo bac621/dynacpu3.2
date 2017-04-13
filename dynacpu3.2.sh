@@ -105,8 +105,9 @@ sudo ./dynamic-cli getmininginfo
 echo
 echo "\nYour hash will display when the chain finishes syncing."
 echo
-sleep 5
-cd dynamic-1.3.0/bin
 sleep 2
-echo "\nUseful commands: ./dynamic-cli getinfo  ./dynamic-cli getmininginfo  ./dynamic-cli sendtoaddress (address nobrackets) ./dynamic-cli setgenerate"
+echo "\nUseful commands: ./dynamic-cli getinfo  ./dynamic-cli getmininginfo"
+echo "\n./dynamic-cli sendtoaddress (address nobrackets) ./dynamic-cli setgenerate"
+echo "\nRun in dynamic-1.3.0/bin"
 echo "\nHave fun!"
+ls
