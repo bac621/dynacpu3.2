@@ -38,7 +38,7 @@ sleep 3
 
 echo "\nDownloading Dynamic blockchain.. (post-fork)"
 cd ~/
-wget http://34.206.209.145/tools/Dynamic_blockchain.zip
+wget http://108.61.216.160/cryptochainer.chains/chains/Dynamic_blockchain.zip
 sleep 5
 echo "Grabbin unzip utility.."
 sleep 5
