@@ -4,7 +4,7 @@ echo "\nUpdatin.. upgrade later if you want with sudo apt-get upgrade!"
 sleep 6
 sudo apt-get update
 
-echo "\nDownloading and Installing Dynamic..."
+echo "\nDownloading and Installing Dynamic version 1.0.3..."
 while :;do echo -n .;sleep 1;done &
 trap "kill $!" EXIT 
 sleep 10; 
@@ -110,4 +110,3 @@ echo "\nUseful commands: ./dynamic-cli getinfo  ./dynamic-cli getmininginfo"
 echo "\n./dynamic-cli sendtoaddress (address nobrackets) ./dynamic-cli setgenerate"
 echo "\nRun in dynamic-1.3.0/bin"
 echo "\nHave fun!"
-ls
