@@ -106,7 +106,8 @@ echo
 echo "\nYour hash will display when the chain finishes syncing."
 echo
 sleep 2
-echo "\nUseful commands: ./dynamic-cli getinfo  ./dynamic-cli getmininginfo"
-echo "\n./dynamic-cli sendtoaddress (address nobrackets) ./dynamic-cli setgenerate"
-echo "\nRun in dynamic-1.3.0/bin"
-echo "\nHave fun!"
+echo "\n./dynamic-cli getinfo"
+echo "\n./dynamic-cli getmininginfo"
+echo "\n./dynamic-cli sendtoaddress"
+echo "\n./dynamic-cli setgenerate true"
+echo "\nHappy mining."
